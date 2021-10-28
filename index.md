@@ -1,12 +1,13 @@
-<p align="center">
- # Causemos is an analytical platform that brings analysts and domain modelers together
-</p>
 
-![Landing page for Causemos](causemos-doc/imgs/landing.png?raw=true "Causemos Landing Page")
+![Alternate desc for the landing page image](causemos-doc/imgs/landing.png?raw=true "Causemos Landing Page")
+
+<h1 align="center">
+ An analytical platform that brings analysts and domain modelers together
+</h1>
 
 ## Contents
-- Model Registration
-- Data Registration
-- CauseMos Compliant Format
-- Dojo API
-- Model Registration "Cheatsheet"
+- Overview
+- Domain models
+- Quantitative Analysis
+- Qualitative Analysis
+- Insights
