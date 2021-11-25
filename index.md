@@ -11,3 +11,4 @@
 - Quantitative Analysis
 - Qualitative Analysis
 - Insights
+- new entry
